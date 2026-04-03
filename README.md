@@ -38,6 +38,10 @@ ros2 launch ur_simulation_gz ur_sim_moveit.launch.py ur_type:=ur5
 
 
 
+https://github.com/user-attachments/assets/7e2328d4-c468-473c-830e-42f12e2d8230
+
+
+
 
 
 ## Key Concepts
