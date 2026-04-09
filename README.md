@@ -1,4 +1,4 @@
-# MoveIt2 Tutorials — UR5 Arm Control
+# MoveIt2 Foundations — UR5 Arm Control
 
 ROS2 Jazzy + MoveIt2 package for controlling a simulated UR5 robot arm using pymoveit2. Built as part of a robotics software engineering learning path toward dual-arm origami folding research.
 
