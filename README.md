@@ -55,10 +55,25 @@ ros2 launch ur_simulation_gz ur_sim_moveit.launch.py ur_type:=ur5
 
 
 ## Demo
+
+
+
+### arm_mover.py demo 
+
+
+
+
+
+
 ### poser_mover.py demo
 https://github.com/user-attachments/assets/7e2328d4-c468-473c-830e-42f12e2d8230
 
 ### cartesian_mover.py demo
+
+
+https://github.com/user-attachments/assets/f7e4b5d3-ec5e-4e8f-b4e7-e1de3391542a
+
+
 
 ## Key Concepts
 
