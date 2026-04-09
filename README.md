@@ -40,20 +40,10 @@ ros2 run moveit2_tutorials cartesian_mover
 ```
 
 ### fold_point1.py
-tf2 static broadcaster that injects a `fold_point_1` frame into the tf2 tree as a child of `paper_center`, positioned 5cm offset with no rotation. Establishes the coordinate frame foundation for origami fold point management in the dual arm project.
-
-**Run:**
-```bash
-ros2 run moveit2_tutorials fold_point1
-```
+tf2 static broadcaster that injects a `fold_point_1` frame into the tf2 tree as a child of `paper_center`, positioned 5cm offset with no rotation. Built as a foundation node for origami fold point coordinate management in the dual UR5 project — not a standalone demo.
 
 ### listener_folding.py
-tf2 listener that queries the transform between `paper_center` and `fold_point_1`, reporting the fold point's position in real time. Demonstrates reading spatial relationships directly from the tf2 tree using Buffer and TransformListener.
-
-**Run:**
-```bash
-ros2 run moveit2_tutorials listener_folding
-```
+tf2 listener that queries the transform between `paper_center` and `fold_point_1`, reporting the fold point's position in real time. Demonstrates reading spatial relationships directly from the tf2 tree using Buffer and TransformListener. Built as a foundation node for the dual UR5 origami project — not a standalone demo.
 
 
 
