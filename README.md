@@ -63,6 +63,10 @@ ros2 launch ur_simulation_gz ur_sim_moveit.launch.py ur_type:=ur5
 
 
 
+https://github.com/user-attachments/assets/cdd9bd11-ce71-40ef-a7d9-7476a6f62166
+
+
+
 
 
 ### poser_mover.py demo
